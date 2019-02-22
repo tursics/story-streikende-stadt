@@ -1,0 +1,24 @@
+{
+  "name": "streikende-stadt",
+  "version": "1.0.0",
+  "description": "tdb",
+  "main": "prepare",
+  "scripts": {
+    "prepare": "node scripts/prepare.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tursics@github.com/tursics/story-streikende-stadt.git"
+  },
+  "author": "Thomas Tursics",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tursics/story-streikende-stadt/issues"
+  },
+  "homepage": "https://github.com/tursics/story-streikende-stadt#readme",
+  "dependencies": {
+    "level": "^4.0.0",
+    "leveldown": "^4.0.1"
+  }
+}
